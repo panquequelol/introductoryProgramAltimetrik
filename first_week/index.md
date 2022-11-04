@@ -11,3 +11,4 @@
 
 ## Merge vs Rebase
 [Article, git merge and rebase the definitive guide](https://www.freecodecamp.org/espanol/news/la-guia-definitiva-para-git-merge-y-git-rebase/)
+[Video, How to do a rebase](https://www.youtube.com/watch?v=_kheHCD5m7Q)
